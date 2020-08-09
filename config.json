@@ -1,0 +1,12 @@
+{
+    "bot_username": "mybotusername",
+    "track_query": "#myhashtag",
+    "retweet": true,
+    "fav": false,
+    "auth": {
+        "consumer_key": "xxxxxxx",
+        "consumer_secret": "xxxxxxx",
+        "access_token_key": "xxxxxxx",
+        "access_token_secret": "xxxxxxxxxx"
+    }
+}
